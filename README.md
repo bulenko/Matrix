@@ -1,6 +1,6 @@
 # Matrix С++
 # s21_matrix+  Implementation of the s21_matrix_oop.h library (С++)
-It's my training project from School21.
+It's my training project from School21. The s21_matrix library is implemented in C++ programming language. 
 Compile using Makefile for compiling library and tests. The gcov_report goal creates a gcov report in html form.
 ## Matrix operations
 
