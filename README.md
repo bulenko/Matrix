@@ -1,6 +1,6 @@
 # Matrix
 # s21_matrix+  Implementation of the s21_matrix_oop.h library (С++)
-
+It's my training project from School21
 ## Matrix operations
 
 There is a brief description of the s21_matrix+ library below.
